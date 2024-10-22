@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3589709
+http://192.168.1.9:1935/live/kercova/playlist.m3u8?wowzasessionid=1839154413
